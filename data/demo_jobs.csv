@@ -1,0 +1,8 @@
+source,title,company,location,description,url
+linkedin,Data Engineer,Northstar Analytics,Bengaluru,"Build ETL data pipelines with Python, SQL, Apache Spark and Apache Airflow. Deploy workloads on AWS S3 and Redshift. Use Git and Docker.",https://example.com/linkedin/1
+naukri,Senior Data Engineer,DataWorks India,Pune,"Design scalable data warehouse models in Snowflake. Strong SQL, Python, dbt, Airflow and AWS Glue skills are required.",https://example.com/naukri/1
+linkedin,Cloud Data Engineer,CloudScale,Hyderabad,"Develop batch and streaming pipelines using PySpark, Kafka and Databricks. Experience with Azure Data Factory, Docker and Kubernetes is preferred.",https://example.com/linkedin/2
+naukri,ETL Engineer,Insight Labs,Chennai,"Create ETL jobs with Python and SQL. Work with AWS, Apache Airflow, PostgreSQL, Linux and Terraform.",https://example.com/naukri/2
+linkedin,Data Engineering Lead,Metric Tree,Mumbai,"Lead a Data Engineering team delivering ELT pipelines on Google Cloud BigQuery. Required: Python, SQL, Spark, Kafka, Git and data warehousing.",https://example.com/linkedin/3
+naukri,Data Engineer,FreshStream,Noida,"Data engineer needed for Snowflake and dbt transformations. Practical knowledge of SQL, Python, Airflow, Docker, AWS and dimensional modeling.",https://example.com/naukri/3
+naukri,Backend Engineer,Other Co,Remote,"Build Java microservices and APIs.",https://example.com/naukri/4
